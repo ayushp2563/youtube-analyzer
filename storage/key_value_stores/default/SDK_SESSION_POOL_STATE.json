@@ -3,7 +3,7 @@
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_m2sXcg4Y4I",
+      "id": "session_1fZLDmfMhB",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -16,14 +16,14 @@
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-09-22T22:07:40.527Z",
-      "createdAt": "2024-09-22T21:17:40.527Z",
+      "expiresAt": "2025-02-13T22:41:14.738Z",
+      "createdAt": "2025-02-13T21:51:14.738Z",
       "usageCount": 0,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_07YCWrrEgw",
+      "id": "session_23i8g5o4mz",
       "cookieJar": {
         "version": "tough-cookie@4.1.4",
         "storeType": "MemoryCookieStore",
@@ -35,69 +35,81 @@
           {
             "key": "GPS",
             "value": "1",
-            "expires": "2024-09-22T21:47:41.592Z",
+            "expires": "2025-02-13T22:21:30.868Z",
             "domain": "youtube.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2024-09-22T21:17:43.594Z",
-            "lastAccessed": "2024-09-22T21:17:43.594Z"
+            "creation": "2025-02-13T21:51:33.937Z",
+            "lastAccessed": "2025-02-13T21:51:33.937Z"
           },
           {
             "key": "YSC",
-            "value": "eXU8J17n6Tg",
-            "expires": "2024-09-22T22:07:43.594Z",
+            "value": "E6o2EpKU1zA",
+            "expires": "2025-02-13T22:41:33.934Z",
             "domain": "youtube.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2024-09-22T21:17:43.595Z",
-            "lastAccessed": "2024-09-22T21:17:43.595Z"
+            "creation": "2025-02-13T21:51:33.946Z",
+            "lastAccessed": "2025-02-13T21:51:33.946Z"
+          },
+          {
+            "key": "__Secure-ROLLOUT_TOKEN",
+            "value": "CMquiqD_ucyoYRDtwKGF0cGLAxjtwKGF0cGLAw%3D%3D",
+            "expires": "2025-08-12T21:51:30.869Z",
+            "domain": "youtube.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-02-13T21:51:33.950Z",
+            "lastAccessed": "2025-02-13T21:51:33.950Z"
           },
           {
             "key": "VISITOR_INFO1_LIVE",
-            "value": "E-fj1lKuTDY",
-            "expires": "2025-03-21T21:17:41.592Z",
+            "value": "K3z_fVpu8fc",
+            "expires": "2025-08-12T21:51:30.869Z",
             "domain": "youtube.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2024-09-22T21:17:43.595Z",
-            "lastAccessed": "2024-09-22T21:17:43.595Z"
+            "creation": "2025-02-13T21:51:33.951Z",
+            "lastAccessed": "2025-02-13T21:51:33.951Z"
           },
           {
             "key": "VISITOR_PRIVACY_METADATA",
-            "value": "CgJJThIEGgAgTg%3D%3D",
-            "expires": "2025-03-21T21:17:41.592Z",
+            "value": "CgJDQRIEGgAgJw%3D%3D",
+            "expires": "2025-08-12T21:51:30.869Z",
             "domain": "youtube.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2024-09-22T21:17:43.596Z",
-            "lastAccessed": "2024-09-22T21:17:43.596Z"
+            "creation": "2025-02-13T21:51:33.952Z",
+            "lastAccessed": "2025-02-13T21:51:33.952Z"
           },
           {
             "key": "PREF",
-            "value": "tz=Asia.Calcutta",
-            "expires": "2025-10-27T21:17:42.420Z",
+            "value": "tz=America.Toronto",
+            "expires": "2026-03-20T21:51:33.838Z",
             "domain": "youtube.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2024-09-22T21:17:43.596Z",
-            "lastAccessed": "2024-09-22T21:17:43.596Z"
+            "creation": "2025-02-13T21:51:33.955Z",
+            "lastAccessed": "2025-02-13T21:51:33.955Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2024-09-22T22:07:40.527Z",
-      "createdAt": "2024-09-22T21:17:40.527Z",
+      "expiresAt": "2025-02-13T22:41:14.748Z",
+      "createdAt": "2025-02-13T21:51:14.748Z",
       "usageCount": 2,
       "maxUsageCount": 50,
       "errorScore": 0

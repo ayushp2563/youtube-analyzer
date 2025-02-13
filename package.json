@@ -1,5 +1,5 @@
 {
-  "name": "playlist-analyzer",
+  "name": "youtube-playlist-analyzer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
